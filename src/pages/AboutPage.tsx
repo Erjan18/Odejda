@@ -189,7 +189,7 @@ const AboutPage: React.FC = () => {
                 </svg>
               </div>
               <h3 className="text-lg font-medium text-gray-900 mb-2">Телефон</h3>
-              <p className="text-gray-600">+7 (800) 123-45-67</p>
+              <p className="text-gray-600">+996 (888) 888-555</p>
             </div>
             
             <div className="text-center">
@@ -199,7 +199,7 @@ const AboutPage: React.FC = () => {
                 </svg>
               </div>
               <h3 className="text-lg font-medium text-gray-900 mb-2">Email</h3>
-              <p className="text-gray-600">info@style-shop.ru</p>
+              <p className="text-gray-600">info@style-shop.kg</p>
             </div>
             
             <div className="text-center">
@@ -210,7 +210,7 @@ const AboutPage: React.FC = () => {
                 </svg>
               </div>
               <h3 className="text-lg font-medium text-gray-900 mb-2">Адрес</h3>
-              <p className="text-gray-600">г. Москва, ул. Текстильщиков, д. 8, стр. 3</p>
+              <p className="text-gray-600">г. Бишкек, ул. Гоголя, 84</p>
             </div>
           </div>
         </div>

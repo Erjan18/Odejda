@@ -32,7 +32,7 @@ const ContactsPage: React.FC = () => {
                   </div>
                   <div className="ml-3">
                     <h3 className="text-lg font-medium text-gray-900">Телефон</h3>
-                    <p className="mt-1 text-gray-600">+7 (800) 123-45-67</p>
+                    <p className="mt-1 text-gray-600">+996 (888) 888-555</p>
                     <p className="mt-1 text-gray-600">+7 (495) 987-65-43</p>
                   </div>
                 </div>
@@ -43,7 +43,7 @@ const ContactsPage: React.FC = () => {
                   </div>
                   <div className="ml-3">
                     <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                    <p className="mt-1 text-gray-600">info@style-shop.ru</p>
+                    <p className="mt-1 text-gray-600">info@style-shop.kg</p>
                     <p className="mt-1 text-gray-600">support@style-shop.ru</p>
                   </div>
                 </div>
@@ -55,7 +55,7 @@ const ContactsPage: React.FC = () => {
                   <div className="ml-3">
                     <h3 className="text-lg font-medium text-gray-900">Адрес</h3>
                     <p className="mt-1 text-gray-600">
-                      г. Москва, ул. Текстильщиков, д. 8, стр. 3
+                      г. Бишкек, ул. Гоголя, 84
                     </p>
                     <p className="mt-1 text-gray-600">
                       Ближайшее метро: Текстильщики
