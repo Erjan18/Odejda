@@ -4,7 +4,7 @@ import { Truck, RefreshCw, ShieldCheck, Clock } from 'lucide-react';
 const features = [
   {
     name: 'Бесплатная доставка',
-    description: 'Бесплатная доставка по Бишкекусей Р при заказе от 5000 сом',
+    description: 'Бесплатная доставка по Бишкеку',
     icon: Truck,
   },
   {
