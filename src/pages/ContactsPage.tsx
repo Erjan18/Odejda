@@ -33,7 +33,7 @@ const ContactsPage: React.FC = () => {
                   <div className="ml-3">
                     <h3 className="text-lg font-medium text-gray-900">Телефон</h3>
                     <p className="mt-1 text-gray-600">+996 (888) 888-555</p>
-                    <p className="mt-1 text-gray-600">+7 (495) 987-65-43</p>
+                    <p className="mt-1 text-gray-600">+996 (222)-22-33-44</p>
                   </div>
                 </div>
                 
@@ -44,7 +44,7 @@ const ContactsPage: React.FC = () => {
                   <div className="ml-3">
                     <h3 className="text-lg font-medium text-gray-900">Email</h3>
                     <p className="mt-1 text-gray-600">info@style-shop.kg</p>
-                    <p className="mt-1 text-gray-600">support@style-shop.ru</p>
+                    <p className="mt-1 text-gray-600">support@style-shop.kg</p>
                   </div>
                 </div>
                 
@@ -57,9 +57,7 @@ const ContactsPage: React.FC = () => {
                     <p className="mt-1 text-gray-600">
                       г. Бишкек, ул. Гоголя, 84
                     </p>
-                    <p className="mt-1 text-gray-600">
-                      Ближайшее метро: Текстильщики
-                    </p>
+                    
                   </div>
                 </div>
                 
@@ -211,14 +209,16 @@ const ContactsPage: React.FC = () => {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Как нас найти</h2>
           <div className="aspect-w-16 aspect-h-9 rounded-lg overflow-hidden shadow-sm">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2246.8255869598936!2d37.73047987693973!3d55.70843597346401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x414ab5619b10a76f%3A0x316bc951696a75a7!2z0YPQuy4g0KLQtdC60YHRgtC40LvRjNGJ0LjQutC-0LIsINCc0L7RgdC60LLQsA!5e0!3m2!1sru!2sru!4v1691842384072!5m2!1sru!2sru"
-              width="100%"
-              height="100%"
-              style={{ border: 0 }}
-              allowFullScreen
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            ></iframe>
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2923.769285213606!2d74.61726827601721!3d42.87771357114948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x389eb7bed3f51f5f%3A0xc55b7a67c1abc0dd!2zODQg0YPQuy4g0JPQvtCz0L7Qu9GPLCDQkdC40YjQutC10Lo!5e0!3m2!1sru!2skg!4v1748950040432!5m2!1sru!2skg"
+  width="100%"
+  height="100%"
+  style={{ border: 0 }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  title="Карта расположения"
+/>
+
           </div>
         </div>
       </div>

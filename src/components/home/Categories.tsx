@@ -5,17 +5,17 @@ const categories = [
   {
     name: 'Верхняя одежда',
     href: '/catalog?category=верхняя одежда',
-    image: 'https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg',
+    image: 'https://nw-shop.ru/files/uploads/vesna-leto-collection-nord-wind-2020-zhenskoe.jpg',
   },
   {
     name: 'Платья',
     href: '/catalog?category=платья',
-    image: 'https://images.pexels.com/photos/6765164/pexels-photo-6765164.jpeg',
+    image: 'https://www.sv-centre.ru/wp-content/uploads/2022/09/Kira-1-400x650.jpg',
   },
   {
     name: 'Костюмы',
     href: '/catalog?category=костюмы',
-    image: 'https://images.pexels.com/photos/6764024/pexels-photo-6764024.jpeg',
+    image: 'https://stockmann.ru/istk/eNYN_uIhzzSGdwWxPyYgXkIUJ7nT35-0Xevhx3f9MJg/rs:fill:747::1/g:no/bG9jYWw6Ly8vdXBsb2FkLy9jbXMvc3RhdGljL2Zhc2hpb24tYmxvZy9hcnRpY2xlLzYzZTllZDA3NDI4MzBkNDA2ZDA1MWM1NC9ibG9jay82M2U5ZjMyOWU4YWVhODg0N2IwZWFhZjYvc3lBSElTdEZzYkZkQllVZnhtM1k5Y1MxRTNDdEY5OFBBVU80VkdaZS5qcGc.jpg',
   },
 ];
 
